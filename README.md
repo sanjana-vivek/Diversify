@@ -1,4 +1,4 @@
-# Diversify: Promoting Diversity and Environmental Conservation 
+# Diversify: Promoting Diversify and Environmental Conservation 
 
 <img src="assets/images/diversify_logo.png" alt="Diversify Logo" width="400">
 
@@ -57,15 +57,17 @@ Our survey results have uncovered a significant population residing in neighborh
   </table>
 
 # Features 
-  - Scan or Upload pictures of plants to improve the diversity
-  - Extensive Plant Identification database
+  - Capture or Upload pictures of plants to improve the plant diversity
+  - Extensive Plant Identification leveraging plantnet API
     
 # Upcoming Features
-  - Create Communities to Interact with other Enthusiasts and Volunteers
+  - Create Volunteer login for seamless interaction between Enthusiasts and Volunteers
+  - Firebase database that stores user login information and plant images who's identified using plantnet API and is sent back to our UI.
+  - Google maps API for error detection and correcton. The location of the user is taken once permission is granted. Only a single plant availability metric provided by the user is taken for a ceratin location and the other is removed. This is facilitated by the distance calculation of geolocation leveraging Google maps API.
 
 # Getting Started
 
-Download Femunity directly from our [GitHub repository](https://github.com/sanjana-vivek/Diversity). After downloading the app, you can sign up for an account
+Download Diversify directly from our [GitHub repository](https://github.com/sanjana-vivek/Diversify). After downloading the app, you can sign up for an account
 by using your email.
 
 # Prerequisites
@@ -79,7 +81,7 @@ Before you start, make sure you have installed the following on your system:
 
 # Installation
 
-1. Clone the Diversity repository from GitHub: https://github.com/sanjana-vivek/Diversify
+1. Clone the Diversify repository from GitHub: https://github.com/sanjana-vivek/Diversify
 
 2. Open the project folder in VS Code.
 
@@ -92,4 +94,4 @@ Before you start, make sure you have installed the following on your system:
 Once you have created an account you can start exploring the app's features.
 
 # Contributing
-  If you would like to contribute to Diversity, please fork the project on GitHub and submit a pull request.
+  If you would like to contribute to Diversify, please fork the project on GitHub and submit a pull request.
