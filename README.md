@@ -6,7 +6,7 @@ Welcome to Diversify - an innovative mobile application dedicated towards enviro
 
 Watch the product demo on:
 
-[![Watch the product demo on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com)
+[![Watch the product demo on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/G0s6Up3tuHk)
 
 # Survey Analysis Problem Identification
 <div style="display: flex; align-items: space-evenly; justify-content:space-evenly" >
