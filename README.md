@@ -39,7 +39,7 @@ Our survey results have uncovered a significant population residing in neighborh
   <table>
     <tr>
       <td>
-        <a href="https://github.com/sanjana-vivek/Diversify/releases/download/Diversify_v1.0.0.apk">
+        <a href="">
           <img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Github" width="200">
         </a>
       </td>
