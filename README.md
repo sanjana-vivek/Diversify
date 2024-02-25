@@ -26,6 +26,9 @@ Endangered plants are threatened by habitat loss, climate change, and invasive s
 - The form was circulated among various age groups to ensure a collective opinion
 -  Best efforts were made sure to reach people from various communities and parts of the country
 
+<br>
+
+Our survey results have uncovered a significant population residing in neighborhoods characterized by sparse greenery, presenting a substantial opportunity for growth in both area coverage and biodiversity. These individuals have expressed a keen interest in addressing this issue, yet have been uncertain about how to initiate action.
   
 <br>
 
@@ -61,7 +64,32 @@ Endangered plants are threatened by habitat loss, climate change, and invasive s
   - Create Communities to Interact with other Enthusiasts and Volunteers
 
 # Getting Started
-  - Download Diversity directly from our GitHub repository
+
+Download Femunity directly from our [GitHub repository](https://github.com/sanjana-vivek/Diversity). After downloading the app, you can sign up for an account
+by using your email.
+
+# Prerequisites
+
+Before you start, make sure you have installed the following on your system:
+
+- Flutter SDK
+- VS Code
+- Dart and Flutter extensions for VS Code
+- Android emulator or physical device
+
+# Installation
+
+1. Clone the Diversity repository from GitHub: https://github.com/sanjana-vivek/Diversify
+
+2. Open the project folder in VS Code.
+
+3. In VS Code, open the command palette (View > Command Palette) and type "Flutter: Run Flutter Doctor". This will check your system to make sure everything is set up correctly.
+
+4. In VS Code, open the main.dart file and click the "Run" button. This will launch the app in the emulator or on your physical device.
+
+
+# How to Use
+Once you have created an account you can start exploring the app's features.
 
 # Contributing
   If you would like to contribute to Diversity, please fork the project on GitHub and submit a pull request.
