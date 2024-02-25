@@ -17,8 +17,9 @@ Watch the product demo on:
 Endangered plants are threatened by habitat loss, climate change, and invasive species, exacerbated by insufficient conservation efforts and limited public awareness. Urgent action is crucial to implement effective conservation measures and preserve the invaluable biodiversity and ecosystem services these plants provide.
 <br>
 
-
-
+<img src="assets/display_images/Screenshot 2024-02-25 at 9.15.45 PM.png">
+<img src="assets/display_images/Screenshot 2024-02-25 at 9.16.31 PM.png">
+<img src="assets/display_images/Screenshot 2024-02-25 at 9.17.32 PM.png">
 
   x People were surveyed across y cities
 - The form was circulated among various age groups to ensure a collective opinion
