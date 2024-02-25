@@ -17,15 +17,19 @@ Watch the product demo on:
 Endangered plants are threatened by habitat loss, climate change, and invasive species, exacerbated by insufficient conservation efforts and limited public awareness. Urgent action is crucial to implement effective conservation measures and preserve the invaluable biodiversity and ecosystem services these plants provide.
 <br>
 
+<img src="assets/display_images/Screenshot 2024-02-25 at 9.14.57 PM.png">
 <img src="assets/display_images/Screenshot 2024-02-25 at 9.15.45 PM.png">
 <img src="assets/display_images/Screenshot 2024-02-25 at 9.16.31 PM.png">
 <img src="assets/display_images/Screenshot 2024-02-25 at 9.17.32 PM.png">
 
-  x People were surveyed across y cities
+ 500+ People were surveyed across 5 cities
 - The form was circulated among various age groups to ensure a collective opinion
 -  Best efforts were made sure to reach people from various communities and parts of the country
 
+<br>
 
+Our survey results have uncovered a significant population residing in neighborhoods characterized by sparse greenery, presenting a substantial opportunity for growth in both area coverage and biodiversity. These individuals have expressed a keen interest in addressing this issue, yet have been uncertain about how to initiate action.
+  
 <br>
 
 🌿 Our initiative seeks to foster environmental consciousness and biodiversity by providing a platform where plant enthusiasts can connect, learn, and contribute to the preservation of flora diversity. Recognizing the growing interest in plant care and the importance of safeguarding diverse plant species, our platform offers users a space to share knowledge, engage in community-driven projects, and access resources aimed at promoting biodiversity. Through our holistic approach, we aim to empower individuals to play an active role in environmental conservation, ultimately fostering a more sustainable future.
@@ -60,7 +64,32 @@ Endangered plants are threatened by habitat loss, climate change, and invasive s
   - Create Communities to Interact with other Enthusiasts and Volunteers
 
 # Getting Started
-  - Download Diversity directly from our GitHub repository
+
+Download Femunity directly from our [GitHub repository](https://github.com/sanjana-vivek/Diversity). After downloading the app, you can sign up for an account
+by using your email.
+
+# Prerequisites
+
+Before you start, make sure you have installed the following on your system:
+
+- Flutter SDK
+- VS Code
+- Dart and Flutter extensions for VS Code
+- Android emulator or physical device
+
+# Installation
+
+1. Clone the Diversity repository from GitHub: https://github.com/sanjana-vivek/Diversify
+
+2. Open the project folder in VS Code.
+
+3. In VS Code, open the command palette (View > Command Palette) and type "Flutter: Run Flutter Doctor". This will check your system to make sure everything is set up correctly.
+
+4. In VS Code, open the main.dart file and click the "Run" button. This will launch the app in the emulator or on your physical device.
+
+
+# How to Use
+Once you have created an account you can start exploring the app's features.
 
 # Contributing
   If you would like to contribute to Diversity, please fork the project on GitHub and submit a pull request.
