@@ -17,15 +17,16 @@ Watch the product demo on:
 Endangered plants are threatened by habitat loss, climate change, and invasive species, exacerbated by insufficient conservation efforts and limited public awareness. Urgent action is crucial to implement effective conservation measures and preserve the invaluable biodiversity and ecosystem services these plants provide.
 <br>
 
+<img src="assets/display_images/Screenshot 2024-02-25 at 9.14.57 PM.png">
 <img src="assets/display_images/Screenshot 2024-02-25 at 9.15.45 PM.png">
 <img src="assets/display_images/Screenshot 2024-02-25 at 9.16.31 PM.png">
 <img src="assets/display_images/Screenshot 2024-02-25 at 9.17.32 PM.png">
 
-  x People were surveyed across y cities
+ 500+ People were surveyed across 5 cities
 - The form was circulated among various age groups to ensure a collective opinion
 -  Best efforts were made sure to reach people from various communities and parts of the country
 
-
+  
 <br>
 
 🌿 Our initiative seeks to foster environmental consciousness and biodiversity by providing a platform where plant enthusiasts can connect, learn, and contribute to the preservation of flora diversity. Recognizing the growing interest in plant care and the importance of safeguarding diverse plant species, our platform offers users a space to share knowledge, engage in community-driven projects, and access resources aimed at promoting biodiversity. Through our holistic approach, we aim to empower individuals to play an active role in environmental conservation, ultimately fostering a more sustainable future.
