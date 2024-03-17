@@ -1,42 +1,97 @@
-# Namba-Tracker
+# Diversify: Promoting Diversify and Environmental Conservation 
 
-Namba-Tracker is an app designed to provide tracking and travel assistance for bus passengers. With its intuitive features and user-friendly interface, it aims to enhance the travel experience for users.
+<img src="assets/images/diversify_logo.png" alt="Diversify Logo" width="400">
 
-## App Features
+Welcome to Diversify - an innovative mobile application dedicated towards environmental conservation, indigenous species diversification, and promoting sustainable practices for a brighter future.
 
-### Bus Seat Tracking
-- Users can track the availability of bus seats in real-time.
-- Once the bus reaches their pickup location, users can mark whether they have boarded the bus or not.
+Watch the product demo on:
 
-### Virtual Travel Buddy
-- Namba-Tracker offers a virtual travel buddy feature to assist users during their travels.
-- The virtual buddy can pair users with compatible travel companions based on similar interests and preferences.
-- Users can input their age, gender, hobbies, and travel destination to find their ideal travel buddy.
-- A match score increases when any of the input fields match, helping users find the most suitable travel companion.
+[![Watch the product demo on YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtu.be/G0s6Up3tuHk)
 
-### Map Integration
-- The app integrates a map feature that displays the live location of the user's booked bus along with its details.
-- Users can easily visualize the whereabouts of their bus, enhancing their travel planning and experience.
+# Survey Analysis Problem Identification
+<div style="display: flex; align-items: space-evenly; justify-content:space-evenly" >
+  <img src="https://lh3.googleusercontent.com/proxy/6-tc5Woy9Kh8B0Vj8pespN-xwftKk1ZTIFZhYrEDHJkZkHZrxB2yu-LYmAbb8Of1GUgUIOgQGghWqZaiedxMBNesQ0HKYmabokbhyKRTPARus8cuRgi7f4fpFlAGJO6Y6Qs" width="300">
+  <img src="https://theglobaleducationproject.org/earth/infographics/biomes_species-at-risk-plants.png" width="300">
+</div>
+<br><br>
+Endangered plants are threatened by habitat loss, climate change, and invasive species, exacerbated by insufficient conservation efforts and limited public awareness. Urgent action is crucial to implement effective conservation measures and preserve the invaluable biodiversity and ecosystem services these plants provide.
+<br>
 
-### User Interface
-- Namba-Tracker boasts a sleek and user-friendly UI design, ensuring a seamless user experience.
-- The interface is optimized for easy navigation and efficient utilization of app features.
+<img src="assets/display_images/Screenshot 2024-02-25 at 9.14.57 PM.png">
+<img src="assets/display_images/Screenshot 2024-02-25 at 9.15.45 PM.png">
+<img src="assets/display_images/Screenshot 2024-02-25 at 9.16.31 PM.png">
+<img src="assets/display_images/Screenshot 2024-02-25 at 9.17.32 PM.png">
 
-## Scaling and Implementation
+ 500+ People were surveyed across 5 cities
+- The form was circulated among various age groups to ensure a collective opinion
+-  Best efforts were made sure to reach people from various communities and parts of the country
 
-Namba-Tracker is currently in progress and undergoing further development to enhance its functionality and usability. Future plans for scaling and implementation include:
+<br>
 
-- Implementing additional features such as trip planning assistance, route optimization, and user feedback mechanisms.
-- Enhancing the virtual travel buddy algorithm to improve compatibility matching and recommendation accuracy.
-- Scaling the app infrastructure to accommodate a larger user base and ensure seamless performance.
-- Conducting user testing and gathering feedback to refine and optimize the app features based on user preferences and needs.
+Our survey results have uncovered a significant population residing in neighborhoods characterized by sparse greenery, presenting a substantial opportunity for growth in both area coverage and biodiversity. These individuals have expressed a keen interest in addressing this issue, yet have been uncertain about how to initiate action.
+  
+<br>
 
-## Site Flow: From Home Screen to Login/Signup
+🌿 Our initiative seeks to foster environmental consciousness and biodiversity by providing a platform where plant enthusiasts can connect, learn, and contribute to the preservation of flora diversity. Recognizing the growing interest in plant care and the importance of safeguarding diverse plant species, our platform offers users a space to share knowledge, engage in community-driven projects, and access resources aimed at promoting biodiversity. Through our holistic approach, we aim to empower individuals to play an active role in environmental conservation, ultimately fostering a more sustainable future.
 
-1. **Home Screen**: Upon opening the app, users are greeted with the home screen, which provides an overview of the app features and functionalities.
-2. **Login/Signup**: Users can choose to either log in to their existing account or sign up for a new account. If they are new users, they are directed to the signup page.
-3. **Signup Page**: On the signup page, users are prompted to fill in their details, including age, gender, hobbies, and travel destination. They also have the option to connect with their virtual buddy by checking a checkbox.
-4. **Virtual Buddy Page (Optional)**: If the user opts to connect with their virtual buddy during signup, they are directed to the virtual buddy page to input their preferences for finding a compatible travel companion.
-5. **Side Menu Navigation**: Throughout the app, users have access to a side menu with various features, including bus seat tracking, virtual travel buddy, map integration, and more. They can easily navigate between different sections of the app using the side menu.
 
-By following this flow, users can seamlessly navigate through the app, access its features, and enhance their travel experience with Namba-Tracker.
+# Latest Version - v1.0.0
+  <table>
+    <tr>
+      <td>
+        <a href="">
+          <img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Github" width="200">
+        </a>
+      </td>
+      <td>
+        <a href="https://media.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif">
+          <img src="https://imgur.com/F5JxdNT.png" alt="Github" width="200">
+        </a>
+      </td>
+         <td>
+        <a href="https://media.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif">
+          <img src="https://imgur.com/91mkzE2.png" alt="Github" width="200">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+# Features 
+  - Capture or Upload pictures of plants to improve the plant diversity
+  - Extensive Plant Identification leveraging plantnet API
+    
+# Upcoming Features
+  - Create Volunteer login for seamless interaction between Enthusiasts and Volunteers
+  - Firebase database that stores user login information and plant images who's identified using plantnet API and is sent back to our UI.
+  - Google maps API for error detection and correcton. The location of the user is taken once permission is granted. Only a single plant availability metric provided by the user is taken for a ceratin location and the other is removed. This is facilitated by the distance calculation of geolocation leveraging Google maps API.
+
+# Getting Started
+
+Download Diversify directly from our [GitHub repository](https://github.com/sanjana-vivek/Diversify). After downloading the app, you can sign up for an account
+by using your email.
+
+# Prerequisites
+
+Before you start, make sure you have installed the following on your system:
+
+- Flutter SDK
+- VS Code
+- Dart and Flutter extensions for VS Code
+- Android emulator or physical device
+
+# Installation
+
+1. Clone the Diversify repository from GitHub: https://github.com/sanjana-vivek/Diversify
+
+2. Open the project folder in VS Code.
+
+3. In VS Code, open the command palette (View > Command Palette) and type "Flutter: Run Flutter Doctor". This will check your system to make sure everything is set up correctly.
+
+4. In VS Code, open the main.dart file and click the "Run" button. This will launch the app in the emulator or on your physical device.
+
+
+# How to Use
+Once you have created an account you can start exploring the app's features.
+
+# Contributing
+  If you would like to contribute to Diversify, please fork the project on GitHub and submit a pull request.
