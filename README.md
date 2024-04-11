@@ -1,4 +1,4 @@
-# Diversify: Promoting Diversify and Environmental Conservation 
+# Diversify: Promoting Diversity and Environmental Conservation 
 
 <img src="assets/images/diversify_logo.png" alt="Diversify Logo" width="400">
 
