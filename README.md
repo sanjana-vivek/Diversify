@@ -36,25 +36,9 @@ Our survey results have uncovered a significant population residing in neighborh
 
 
 # Latest Version - v1.0.0
-  <table>
-    <tr>
-      <td>
         <a href="">
           <img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Github" width="200">
         </a>
-      </td>
-      <td>
-        <a href="https://media.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif">
-          <img src="https://imgur.com/F5JxdNT.png" alt="Github" width="200">
-        </a>
-      </td>
-         <td>
-        <a href="https://media.giphy.com/media/iHD88spVFkL7mZakwa/giphy.gif">
-          <img src="https://imgur.com/91mkzE2.png" alt="Github" width="200">
-        </a>
-      </td>
-    </tr>
-  </table>
 
 # Features 
   - Capture or Upload pictures of plants to improve the plant diversity
