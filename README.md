@@ -34,12 +34,6 @@ Our survey results have uncovered a significant population residing in neighborh
 
 🌿 Our initiative seeks to foster environmental consciousness and biodiversity by providing a platform where plant enthusiasts can connect, learn, and contribute to the preservation of flora diversity. Recognizing the growing interest in plant care and the importance of safeguarding diverse plant species, our platform offers users a space to share knowledge, engage in community-driven projects, and access resources aimed at promoting biodiversity. Through our holistic approach, we aim to empower individuals to play an active role in environmental conservation, ultimately fostering a more sustainable future.
 
-
-# Latest Version - v1.0.0
-        <a href="">
-          <img src="https://user-images.githubusercontent.com/663460/26973090-f8fdc986-4d14-11e7-995a-e7c5e79ed925.png" alt="Github" width="200">
-        </a>
-
 # Features 
   - Capture or Upload pictures of plants to improve the plant diversity
   - Extensive Plant Identification leveraging plantnet API
